@@ -4,4 +4,4 @@ I want to make a decision maker for user to choose what they should have for din
 
 I take Brian's Flip Card Demo (https://codesandbox.io/s/flip-card-demo-forked-05n9qq?file=/index.html) as the reference when designing the interface.
 
-This project is not finished as I fail to fetch the json files. I'll try my best to fix all the probelms and errors in the future, but I've tried my best for now. I get a headache when I see codes right now. 
+This project is not finished as I fail to fetch the json files. I'll try my best to fix all the probelms and errors in the future, but I've tried my best for now. I get a headache when I see codes at the moment. 
